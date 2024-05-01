@@ -1,0 +1,19 @@
+
+img{
+    height: 100px;
+    width: 100px;
+    border: solid;
+}
+.gallery{
+    display: flex;
+    justify-content: space-evenly;
+    margin: 5% 10% 10% 10%;
+}
+.galleryrow2{
+    display: flex;
+    justify-content: space-evenly;
+    margin: 5% 10% 10% 10%;
+}
+body{
+    background-color: rgb(49, 60, 115);
+}
